@@ -1,3 +1,5 @@
+Resultado do projeto em: https://github.com/brustrokes/project0-titanic/blob/master/titanic_survival_exploration.html
+
 # Project 0: Introduction and Fundamentals
 ## Titanic Survival Exploration
 
